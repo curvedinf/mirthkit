@@ -13,7 +13,8 @@ SDL_image
 libcurl
 sqlite3
 crypto
-Squirrel2.2 (included)
+libz
+Squirrel3.0
 
 Compilation:
 Run the compile script for your system from the project's root directory.
