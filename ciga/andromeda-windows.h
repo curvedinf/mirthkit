@@ -2,6 +2,7 @@
 #define _WINDOWS__H__
 
 #ifdef WIN32
+//#include <winsock2>
 #include <windows.h>
 #include <ws2tcpip.h>
 #include <stdio.h>
@@ -10,7 +11,7 @@
 
 #define PLATFORM_SOCK SOCKET
 
-const char *inet_ntop(int af, const void *src, char *dst, int cnt)
+/*const char *inet_ntop(int af, const void *src, char *dst, int cnt)
 {
         if (af == AF_INET)
         {
@@ -58,7 +59,7 @@ int inet_pton(int af, const char *src, void *dst)
 
         freeaddrinfo(ressave);
         return 0;
-}
+}*/
 
 void platformInit(void)
 {

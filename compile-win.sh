@@ -13,5 +13,5 @@ windres icon.rc objects/icon.o
 echo "Linking executable"
 g++ -o MirthKit objects/acorn.o objects/albillo.o objects/amaryllis.o objects/amaryllis-gui.o \
 objects/argillite.o objects/abyss.o objects/CIGData.o objects/MemoryBlock.o objects/main.o objects/icon.o \
--lsquirrel -lsqstdlib -lSDL -lSDL_ttf -lSDL_image -lSDL_mixer -lcurl -lopengl32 \
--lws2_32 -lmingw32 -lSDLmain -mwindows -lSDL -lsqlite3 -lz -lcrypto
+-mwindows  -lmingw32 -lSDLmain -lSDL -lSDL_ttf -lSDL_image -lSDL_mixer -lcurl -lopengl32 \
+-lsquirrel -lsqstdlib -lws2_32  -lsqlite3 -lz -lcrypto

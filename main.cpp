@@ -6,9 +6,12 @@
 #include <stdarg.h>
 #include <sys/stat.h>
 #include <time.h>
-#include <execinfo.h>
 #include <signal.h>
 #include <unistd.h>
+
+#ifndef WIN32
+#include <execinfo.h>
+#endif
 
 
 #include <squirrel3/squirrel.h>
@@ -297,6 +300,7 @@ SQInteger sb_flush(HSQUIRRELVM v)
 	return 0;
 }
 
+#ifndef WIN32
 void handler(int sig) {
 	void *array[10];
 	size_t size;
@@ -309,10 +313,13 @@ void handler(int sig) {
 	backtrace_symbols_fd(array, size, STDERR_FILENO);
 	exit(1);
 }
+#endif
 
 int main(int argc, char **argv)
 {
+#ifndef WIN32
 	signal(SIGSEGV, handler);
+#endif
 	
 	devMode = true; // always run ./ main.nut
 	
