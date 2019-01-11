@@ -9,7 +9,7 @@ available at https://github.com/djangochase/finityflight
 Updated Squirrel to 3.0. Cleaned up project. Fixed dependencies for Ubuntu 18.04.
 
 ## Dependencies
-g++
+```g++
 SDL
 SDL_mixer
 SDL_ttf
@@ -19,6 +19,7 @@ sqlite3
 crypto
 libz
 Squirrel3.0
+```
 
 ## Compilation
 Run the compile script for your system from the project's root directory.
