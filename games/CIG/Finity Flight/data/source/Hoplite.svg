@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/curved/Projects/Mirth/svn/ff3/data/source"
+   sodipodi:docname="Hoplite.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/curved/Projects/Mirth/svn/ff3/data/source/Gnat.png"
+   inkscape:export-xdpi="3.6600001"
+   inkscape:export-ydpi="3.6600001"
+   sodipodi:modified="TRUE">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3526">
+      <stop
+         style="stop-color:#ececec;stop-opacity:1;"
+         offset="0"
+         id="stop3528" />
+      <stop
+         id="stop3534"
+         offset="0.85106385"
+         style="stop-color:#7b7b7b;stop-opacity:1;" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="1"
+         id="stop3530" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3285">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3287" />
+      <stop
+         id="stop3868"
+         offset="0.80851066"
+         style="stop-color:#c8c8c8;stop-opacity:1;" />
+      <stop
+         style="stop-color:#919191;stop-opacity:1;"
+         offset="1"
+         id="stop3289" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3245">
+      <stop
+         style="stop-color:#ff1b1b;stop-opacity:1;"
+         offset="0"
+         id="stop3247" />
+      <stop
+         id="stop3253"
+         offset="0.5"
+         style="stop-color:#ffbc8d;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ff1b1b;stop-opacity:1;"
+         offset="1"
+         id="stop3249" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective42" />
+    <linearGradient
+       id="linearGradient9986">
+      <stop
+         id="stop9994"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c96457;stop-opacity:1;"
+         offset="0.5"
+         id="stop12922" />
+      <stop
+         style="stop-color:#943939;stop-opacity:1;"
+         offset="1"
+         id="stop9990" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3245"
+       id="linearGradient3251"
+       x1="378.25"
+       y1="657.35938"
+       x2="408.90625"
+       y2="657.35938"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(744.28572,-138.57143)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3285"
+       id="radialGradient3293"
+       cx="401.42859"
+       cy="866.64789"
+       fx="401.42859"
+       fy="866.64789"
+       r="59.57143"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3285"
+       id="radialGradient3297"
+       gradientUnits="userSpaceOnUse"
+       cx="401.42859"
+       cy="866.64789"
+       fx="401.42859"
+       fy="866.64789"
+       r="59.57143" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3526"
+       id="radialGradient3532"
+       cx="564.77679"
+       cy="701.52234"
+       fx="564.77679"
+       fy="701.52234"
+       r="49.925449"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3526"
+       id="radialGradient3542"
+       cx="562.63397"
+       cy="700.09381"
+       fx="562.63397"
+       fy="700.09381"
+       r="49.925449"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3526"
+       id="radialGradient3552"
+       gradientUnits="userSpaceOnUse"
+       cx="587.63391"
+       cy="698.66516"
+       fx="587.63391"
+       fy="698.66516"
+       r="49.925449" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3526"
+       id="radialGradient3554"
+       gradientUnits="userSpaceOnUse"
+       cx="586.91968"
+       cy="697.23663"
+       fx="586.91968"
+       fy="697.23663"
+       r="49.925449" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="624.00371"
+     inkscape:cy="623.63427"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="910"
+     inkscape:window-height="722"
+     inkscape:window-x="68"
+     inkscape:window-y="29"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(-1,0,0,1,744.09672,0.5917335)"
+       d="M 623.26412,712.95093 A 48.487324,48.487324 0 1 1 526.28947,712.95093 A 48.487324,48.487324 0 1 1 623.26412,712.95093 z"
+       sodipodi:ry="48.487324"
+       sodipodi:rx="48.487324"
+       sodipodi:cy="712.95093"
+       sodipodi:cx="574.77679"
+       id="path3548"
+       style="opacity:1;fill:url(#radialGradient3552);fill-opacity:1;stroke:#000000;stroke-width:2.87625003000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#radialGradient3554);fill-opacity:1;stroke:#000000;stroke-width:2.87625003000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3550"
+       sodipodi:cx="574.77679"
+       sodipodi:cy="712.95093"
+       sodipodi:rx="48.487324"
+       sodipodi:ry="48.487324"
+       d="M 623.26412,712.95093 A 48.487324,48.487324 0 1 1 526.28947,712.95093 A 48.487324,48.487324 0 1 1 623.26412,712.95093 z"
+       transform="matrix(-1,0,0,1,794.60435,182.4192)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#929292;fill-rule:evenodd;stroke:#000000;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 447.32132,359.1116 L 450.82756,366.57678 L 460.87844,371.82078 L 474.19846,412.32005 L 447.08537,440.75572 L 407.54807,449.67559 L 443.74279,490.59386 L 461.98242,494.37896 L 493.40499,428.7516 L 504.21229,421.82376 L 483.53527,366.58503 L 488.87949,358.15365 L 488.52868,350.48984 C 486.84561,351.01968 484.25946,351.80545 481.81275,353.15858 C 479.1958,354.60586 478.50735,359.95346 476.80447,360.16685 L 460.50172,363.40127 L 453.94658,358.81488 L 447.32132,359.1116 z"
+       id="path2535"
+       sodipodi:nodetypes="cccccccccccccscccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       sodipodi:nodetypes="cccccccccccccscccc"
+       id="path2539"
+       d="M 614.58467,410.47914 L 613.26056,417.26887 L 616.387,428.09083 L 595.69481,491.00957 L 554.31268,510.63207 L 518.63003,497.24942 L 514.10177,572.83791 L 524.57674,589.20581 L 597.29408,524.30502 L 610.44984,522.16971 L 636.32065,436.28449 L 644.44224,434.39119 L 649.37094,425.98338 C 647.73822,425.6074 646.8604,422.6421 644.04514,422.84771 C 641.03401,423.06762 638.87824,427.92206 637.47081,427.12527 L 623.50159,420.52479 L 621.67652,412.49977 L 614.58467,410.47914 z"
+       style="fill:#929292;fill-rule:evenodd;stroke:#000000;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       sodipodi:nodetypes="cccccccccccccscccc"
+       id="path2544"
+       d="M 305.6296,359.1116 L 302.12336,366.57678 L 292.07248,371.82078 L 278.75246,412.32005 L 305.86555,440.75572 L 345.40285,449.67559 L 309.20813,490.59386 L 290.9685,494.37896 L 259.54593,428.7516 L 248.73863,421.82376 L 269.41565,366.58503 L 264.07143,358.15365 L 264.42224,350.48984 C 266.10531,351.01968 268.69146,351.80545 271.13817,353.15858 C 273.75512,354.60586 274.44357,359.95346 276.14645,360.16685 L 292.4492,363.40127 L 299.00434,358.81488 L 305.6296,359.1116 z"
+       style="fill:#929292;fill-rule:evenodd;stroke:#000000;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#929292;fill-rule:evenodd;stroke:#000000;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 138.36625,410.47914 L 139.69036,417.26887 L 136.56392,428.09083 L 157.25611,491.00957 L 198.63824,510.63207 L 234.32089,497.24942 L 238.84915,572.83791 L 228.37418,589.20581 L 155.65684,524.30502 L 142.50108,522.16971 L 116.63027,436.28449 L 108.50868,434.39119 L 103.57998,425.98338 C 105.2127,425.6074 106.09052,422.6421 108.90578,422.84771 C 111.91691,423.06762 114.07268,427.92206 115.48011,427.12527 L 129.44933,420.52479 L 131.2744,412.49977 L 138.36625,410.47914 z"
+       id="path2546"
+       sodipodi:nodetypes="cccccccccccccscccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#929292;fill-rule:evenodd;stroke:#000000;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 254.5625,567.5 L 241.4375,610.9375 L 252.53125,620.03125 L 260.625,667.5 L 253.5625,681.625 L 268.6875,691.75 L 374.75,763.40625 L 480.84375,691.75 L 496,681.625 L 488.90625,667.5 L 497,620.03125 L 508.09375,610.9375 L 494.96875,567.5 L 374.75,511.1875 L 254.5625,567.5 z"
+       id="path2548"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#radialGradient3532);fill-opacity:1;stroke:#000000;stroke-width:2.87625000000000020;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3334"
+       sodipodi:cx="574.77679"
+       sodipodi:cy="712.95093"
+       sodipodi:rx="48.487324"
+       sodipodi:ry="48.487324"
+       d="M 623.26412,712.95093 A 48.487324,48.487324 0 1 1 526.28947,712.95093 A 48.487324,48.487324 0 1 1 623.26412,712.95093 z"
+       transform="translate(5.0507624,2.020305)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       transform="translate(-45.456865,183.84777)"
+       d="M 623.26412,712.95093 A 48.487324,48.487324 0 1 1 526.28947,712.95093 A 48.487324,48.487324 0 1 1 623.26412,712.95093 z"
+       sodipodi:ry="48.487324"
+       sodipodi:rx="48.487324"
+       sodipodi:cy="712.95093"
+       sodipodi:cx="574.77679"
+       id="path3336"
+       style="opacity:1;fill:url(#radialGradient3542);fill-opacity:1;stroke:#000000;stroke-width:2.87625000000000020;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.58222222"
+       d="M 339.40625,528.09375 L 248,594.25 L 243.4375,606.875 L 312.65625,598.3125 L 349,545.25 L 402.03125,545.25 L 438.40625,598.3125 L 507.59375,606.875 L 503.0625,594.25 L 411.625,528.09375 L 339.40625,528.09375 z"
+       id="path4012"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#d5d5d5;fill-rule:evenodd;stroke:#3e3e3e;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 335.78125,435.75 L 289.28125,475.21875 L 205,502.375 L 179.28125,560.9375 L 225,602.375 L 309.28125,589.5 L 345,536.65625 L 407.15625,536.65625 L 442.84375,589.5 L 527.15625,602.375 L 572.84375,560.9375 L 547.15625,502.375 L 462.84375,475.21875 L 416.375,435.75 L 335.78125,435.75 z"
+       id="path2537"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.58222222"
+       d="M 338.40625,605.875 L 331.34375,611.9375 L 330.3125,643.75 L 355.5625,697.28125 L 400.03125,697.28125 L 425.28125,643.75 L 424.25,611.9375 L 417.1875,605.875 L 377.8125,652.59375 L 338.40625,605.875 z"
+       id="path4017"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#d5d5d5;fill-rule:evenodd;stroke:#3e3e3e;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 358.9375,552.34375 L 330.65625,610.9375 L 356.90625,683.65625 L 397,683.65625 L 423.25,610.9375 L 394.96875,552.34375 L 358.9375,552.34375 z"
+       id="path2553"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       sodipodi:nodetypes="ccsc"
+       id="path4121"
+       d="M 213.64729,693.25296 L 204.05085,707.39509 C 204.05085,707.39509 195.46455,740.22505 195.46455,742.24535 C 195.46455,744.26566 196.97978,755.88241 196.97978,755.88241"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4123"
+       d="M 224.75897,849.8266 L 242.43664,877.10072 L 268.70061,900.8393"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#d5d5d5;fill-rule:evenodd;stroke:#3e3e3e;stroke-width:2.87625000000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 320.21875,676.58979 L 289.90625,666.46875 L 278.8125,678.59375 L 244.46875,675.5625 L 202.03125,704.875 L 198,736.1875 L 239.40625,878.625 L 280.8125,896.8125 L 334.375,876.59375 L 347.5,850.34375 L 403.0625,850.34375 L 416.1875,876.59375 L 469.71875,896.8125 L 511.125,878.625 L 552.5625,736.1875 L 548.5,704.875 L 506.09375,675.5625 L 471.75,678.59375 L 460.625,666.46875 L 430.3125,676.58979 L 403.0625,724.06552 L 347.5,724.06552 L 320.21875,676.58979 z"
+       id="path3328"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.88000000000000000"
+       d="M 332.125,612.03125 L 346.84533,602.32931 L 361.99143,568.46843 L 391.43084,567.96335 L 408.09217,602.32931 L 422.8125,612.03125 L 393.59375,554.34375 L 359.34375,554.34375 L 332.125,612.03125 z"
+       id="path3971"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <rect
+       style="opacity:1;fill:#ff3333;fill-opacity:1;stroke:#880000;stroke-width:2.87625003000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3359"
+       width="26.071428"
+       height="6.7857141"
+       x="363.92856"
+       y="558.07648"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <g
+       id="g3975"
+       style="stroke:#4f4f4f;stroke-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         id="path3389"
+         d="M 420.35714,616.29075 L 402.85714,618.07647 L 388.92857,655.21932 L 400,672.36218"
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3391"
+         d="M 390.71429,659.1479 L 407.5,617.71932"
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3393"
+         d="M 412.5,617.00504 L 393.92857,662.00504"
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3395"
+         d="M 396.78571,668.07647 L 416.42857,616.29075"
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 224.28571,602.36218 L 236.42857,580.21932 L 299.28571,570.21932 L 337.85714,515.93361 L 417.14286,515.93361 L 453.57143,570.21932 L 518.57143,581.6479 L 527.85714,601.6479"
+       id="path3397"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 396.07143,723.79075 L 384.28571,710.21932 L 361.07143,710.21932 L 350,723.43361"
+       id="path3450"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <g
+       id="g3570"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         id="path3345"
+         d="M 483.57143,368.07647 L 480,376.6479 L 495.35714,418.43361 L 504.28572,422.00504"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3347"
+         d="M 462.14286,372.36218 L 471.07143,378.43361 L 481.42857,409.86218 L 474.64286,412.00504"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3349"
+         d="M 460.71429,473.43361 L 479.28572,435.21932 L 470.71429,428.43361 L 448.92857,451.6479 L 439.28571,454.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3351"
+         d="M 497.85714,424.86218 L 486.78572,421.6479 L 482.85714,428.07647 L 488.21429,438.07647"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3353"
+         d="M 476.792,361.41784 L 477.04454,366.72114 L 482.85292,366.21607"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3355"
+         d="M 460.62956,363.94322 L 463.91256,368.74145 L 461.13464,371.01429"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3357"
+         d="M 466.1854,363.43815 L 473.00393,376.31759 L 476.03439,374.80236 L 471.99378,362.68053"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3361"
+         d="M 478.81231,360.15515 L 482.85292,358.38738 L 485.12576,352.83154"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3363"
+         d="M 452.54834,358.38738 L 455.83134,364.95337 L 460.62956,363.94322"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3556"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         id="path3365"
+         d="M 617.5,428.07647 L 620.35714,440.57647 L 602.5,493.07647 L 596.07143,491.6479"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3367"
+         d="M 636.07143,436.6479 L 626.78572,442.71932 L 605.35714,507.71932 L 611.07143,521.29075"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3369"
+         d="M 604.28572,522.36218 L 596.07143,514.50504 L 588.92857,519.86218 L 587.14286,534.1479"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3371"
+         d="M 565,542.00504 L 583.21429,524.50504 L 579.64286,514.86218 L 566.07143,519.1479 L 553.92857,518.43361"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3373"
+         d="M 577.14286,500.93361 L 584.28572,508.79075 L 595.35714,502.71932 L 593.57143,493.07647"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3375"
+         d="M 579.28572,502.36218 L 593.21429,495.57647"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3377"
+         d="M 594.28572,498.79075 L 581.78572,504.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3379"
+         d="M 626.42857,422.71932 L 623.57143,437.36218 L 626.42857,438.79075 L 632.85714,424.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3381"
+         d="M 636.78572,427.71932 L 633.21429,432.00504 L 637.5,436.6479"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3383"
+         d="M 623.21429,420.21932 L 621.07143,428.07647 L 616.78572,428.79075"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3385"
+         d="M 617.5,411.29075 L 619.28572,417.00504 L 623.21429,419.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3387"
+         d="M 638.57143,427.36218 L 643.92857,427.00504 L 646.42857,424.1479"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3619"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         id="path3399"
+         d="M 409.61686,540.21484 L 399.51533,560.92297"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3401"
+         d="M 413.65747,546.27576 L 403.05087,565.97373"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3403"
+         d="M 387.3935,536.17423 L 387.3935,551.32652"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3405"
+         d="M 407.59655,560.92297 L 425.27422,583.6514 L 436.89098,581.12602"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3407"
+         d="M 413.15239,590.21739 L 438.4062,585.67171"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3409"
+         d="M 506.5915,610.92552 L 460.12448,610.42044 L 448.50773,661.43315 L 491.43921,676.08036"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3411"
+         d="M 496.99505,620.01689 L 487.90368,621.02705 L 480.32754,661.43315 L 488.91383,668.50422"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3413"
+         d="M 447.49758,591.22755 L 454.56865,604.8646 L 440.93159,661.43315 L 421.73869,675.57528 L 403.05087,669.00929"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3415"
+         d="M 399.51533,680.12097 L 415.1727,687.19204 L 416.68793,701.33417"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3417"
+         d="M 420.22346,600.82399 L 435.88082,598.29861 L 437.39605,602.33922 L 422.24376,606.37983"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3419"
+         d="M 420.72854,621.53212 L 435.37575,625.57273 L 432.85037,632.6438 L 418.20315,628.60319"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3448"
+         d="M 384.28571,683.79075 L 386.42857,700.57647 L 390.71429,698.79075 L 391.78571,683.79075"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.88"
+       d="M 506.09375 675.5625 L 471.75 678.59375 L 471.21875 678 L 470.71875 679.125 L 479.8125 692.25 L 505.0625 696.78125 L 530.34375 713.96875 L 532.84375 724.5625 L 552.0625 737.1875 L 552.375 736.84375 L 552.5625 736.1875 L 548.5 704.875 L 506.09375 675.5625 z "
+       id="path3973"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <g
+       id="g3604"
+       style="stroke:#444444;stroke-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         id="path3427"
+         d="M 402.04071,724.06261 L 402.04071,853.36213"
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3435"
+         d="M 432.34529,678.10066 L 452.54834,715.47631 L 402.54579,726.08291"
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3437"
+         d="M 453.55849,714.97123 L 471.74124,679.61589"
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3444"
+         d="M 482.14286,679.86218 L 483.57143,693.07647 L 503.57143,696.6479 L 524.64286,710.57647 L 541.07143,698.79075"
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3446"
+         d="M 486.42857,679.1479 L 489.28572,693.79075"
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3439"
+         d="M 546.49253,734.16413 L 507.09658,872.04995 L 498.00521,869.52457 L 538.41131,729.61844 L 546.49253,734.16413 z"
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path3441"
+         d="M 541.94684,732.14383 L 503.05597,870.02965"
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.6645161,0,0,0.6645161,158.21659,319.0367)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3454"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3456"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6645161,0,0,0.6645161,176.78802,306.17956)" />
+      <path
+         transform="matrix(0.6645161,0,0,0.6645161,196.07373,292.60813)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3458"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3464"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6645161,0,0,0.6645161,163.21659,223.32241)" />
+      <path
+         transform="matrix(0.6645161,0,0,0.6645161,181.78802,210.46527)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3466"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3468"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6645161,0,0,0.6645161,201.07373,196.89384)" />
+    </g>
+    <g
+       id="g3581"
+       style="stroke:#444444;stroke-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,878.13688,96.948794)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3471"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3474"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,895.62234,111.24784)" />
+      <path
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,913.99157,126.03614)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3476"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3506"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3492"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,1004.0695,285.25622)" />
+      <path
+         transform="matrix(0.5190201,0.3974749,-7.9868135e-2,0.3431828,441.33894,238.06666)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3494"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3496"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6485643,-8.2051964e-2,0.1843918,0.300255,141.86701,474.19645)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3502"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(-0.3974749,0.5190201,-0.3431828,-7.9868135e-2,1056.7662,575.61586)" />
+      <path
+         transform="matrix(8.2051964e-2,0.6485643,-0.300255,0.1843918,820.99338,280.78691)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3504"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3513"
+       transform="matrix(0.258819,0.9659258,-0.9659258,0.258819,1068.9947,150.10981)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,1004.0695,285.25622)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3516"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3518"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.5190201,0.3974749,-7.9868135e-2,0.3431828,441.33894,238.06666)" />
+      <path
+         transform="matrix(0.6485643,-8.2051964e-2,0.1843918,0.300255,141.86701,474.19645)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3520"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(-0.3974749,0.5190201,-0.3431828,-7.9868135e-2,1056.7662,575.61586)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3522"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3524"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(8.2051964e-2,0.6485643,-0.300255,0.1843918,820.99338,280.78691)" />
+    </g>
+    <g
+       id="g3703"
+       transform="matrix(-1,0,0,1,750.7143,0)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 483.57143,368.07647 L 480,376.6479 L 495.35714,418.43361 L 504.28572,422.00504"
+         id="path3705" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 462.14286,372.36218 L 471.07143,378.43361 L 481.42857,409.86218 L 474.64286,412.00504"
+         id="path3707" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 460.71429,473.43361 L 479.28572,435.21932 L 470.71429,428.43361 L 448.92857,451.6479 L 439.28571,454.86218"
+         id="path3709" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 497.85714,424.86218 L 486.78572,421.6479 L 482.85714,428.07647 L 488.21429,438.07647"
+         id="path3711" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 476.792,361.41784 L 477.04454,366.72114 L 482.85292,366.21607"
+         id="path3713" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 460.62956,363.94322 L 463.91256,368.74145 L 461.13464,371.01429"
+         id="path3715" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 466.1854,363.43815 L 473.00393,376.31759 L 476.03439,374.80236 L 471.99378,362.68053"
+         id="path3717" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 478.81231,360.15515 L 482.85292,358.38738 L 485.12576,352.83154"
+         id="path3719" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 452.54834,358.38738 L 455.83134,364.95337 L 460.62956,363.94322"
+         id="path3721" />
+    </g>
+    <g
+       id="g3723"
+       transform="matrix(-1,0,0,1,750.7143,0)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 617.5,428.07647 L 620.35714,440.57647 L 602.5,493.07647 L 596.07143,491.6479"
+         id="path3725" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 636.07143,436.6479 L 626.78572,442.71932 L 605.35714,507.71932 L 611.07143,521.29075"
+         id="path3727" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 604.28572,522.36218 L 596.07143,514.50504 L 588.92857,519.86218 L 587.14286,534.1479"
+         id="path3729" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 565,542.00504 L 583.21429,524.50504 L 579.64286,514.86218 L 566.07143,519.1479 L 553.92857,518.43361"
+         id="path3731" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 577.14286,500.93361 L 584.28572,508.79075 L 595.35714,502.71932 L 593.57143,493.07647"
+         id="path3733" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 579.28572,502.36218 L 593.21429,495.57647"
+         id="path3735" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 594.28572,498.79075 L 581.78572,504.86218"
+         id="path3737" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 626.42857,422.71932 L 623.57143,437.36218 L 626.42857,438.79075 L 632.85714,424.86218"
+         id="path3739" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 636.78572,427.71932 L 633.21429,432.00504 L 637.5,436.6479"
+         id="path3741" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 623.21429,420.21932 L 621.07143,428.07647 L 616.78572,428.79075"
+         id="path3743" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 617.5,411.29075 L 619.28572,417.00504 L 623.21429,419.86218"
+         id="path3745" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 638.57143,427.36218 L 643.92857,427.00504 L 646.42857,424.1479"
+         id="path3747" />
+    </g>
+    <g
+       id="g3749"
+       transform="matrix(-1,0,0,1,750.7143,0)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 409.61686,540.21484 L 399.51533,560.92297"
+         id="path3751" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 413.65747,546.27576 L 403.05087,565.97373"
+         id="path3753" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 387.3935,536.17423 L 387.3935,551.32652"
+         id="path3755" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 407.59655,560.92297 L 425.27422,583.6514 L 436.89098,581.12602"
+         id="path3758" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 413.15239,590.21739 L 438.4062,585.67171"
+         id="path3760" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 506.5915,610.92552 L 460.12448,610.42044 L 448.50773,661.43315 L 491.43921,676.08036"
+         id="path3762" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 496.99505,620.01689 L 487.90368,621.02705 L 480.32754,661.43315 L 488.91383,668.50422"
+         id="path3764" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 447.49758,591.22755 L 454.56865,604.8646 L 440.93159,661.43315 L 421.73869,675.57528 L 403.05087,669.00929"
+         id="path3766" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 399.51533,680.12097 L 415.1727,687.19204 L 416.68793,701.33417"
+         id="path3768" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 420.22346,600.82399 L 435.88082,598.29861 L 437.39605,602.33922 L 422.24376,606.37983"
+         id="path3770" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 420.72854,621.53212 L 435.37575,625.57273 L 432.85037,632.6438 L 418.20315,628.60319"
+         id="path3772" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 384.28571,683.79075 L 386.42857,700.57647 L 390.71429,698.79075 L 391.78571,683.79075"
+         id="path3774" />
+    </g>
+    <path
+       id="path4010"
+       d="M 246.46662,675.5625 L 280.81037,678.59375 L 281.34162,678 L 281.84162,679.125 L 272.74787,692.25 L 247.49787,696.78125 L 222.21662,713.96875 L 219.71662,724.5625 L 200.49787,737.1875 L 200.18537,736.84375 L 199.99787,736.1875 L 204.06037,704.875 L 246.46662,675.5625 z"
+       style="fill:#ffffff;fill-opacity:0.87999998;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <g
+       id="g3776"
+       transform="matrix(-1,0,0,1,750.7143,0)"
+       style="stroke:#444444;stroke-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 402.04071,724.06261 L 402.04071,853.36213"
+         id="path3778" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 432.34529,678.10066 L 452.54834,715.47631 L 402.54579,726.08291"
+         id="path3780" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 453.55849,714.97123 L 471.74124,679.61589"
+         id="path3782" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 482.14286,679.86218 L 483.57143,693.07647 L 503.57143,696.6479 L 524.64286,710.57647 L 541.07143,698.79075"
+         id="path3784" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 486.42857,679.1479 L 489.28572,693.79075"
+         id="path3786" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 546.49253,734.16413 L 507.09658,872.04995 L 498.00521,869.52457 L 538.41131,729.61844 L 546.49253,734.16413 z"
+         id="path3788" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#444444;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 541.94684,732.14383 L 503.05597,870.02965"
+         id="path3790" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3792"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6645161,0,0,0.6645161,158.21659,319.0367)" />
+      <path
+         transform="matrix(0.6645161,0,0,0.6645161,176.78802,306.17956)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3794"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3796"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6645161,0,0,0.6645161,196.07373,292.60813)" />
+      <path
+         transform="matrix(0.6645161,0,0,0.6645161,163.21659,223.32241)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3799"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3801"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6645161,0,0,0.6645161,181.78802,210.46527)" />
+      <path
+         transform="matrix(0.6645161,0,0,0.6645161,201.07373,196.89384)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3803"
+         style="fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3805"
+       transform="matrix(-1,0,0,1,750.7143,0)"
+       style="stroke:#444444;stroke-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3807"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,878.13688,96.948794)" />
+      <path
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,895.62234,111.24784)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3809"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#444444;stroke-width:1.25000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3811"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,913.99157,126.03614)" />
+    </g>
+    <g
+       id="g3813"
+       transform="matrix(-1,0,0,1,750.7143,0)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,1004.0695,285.25622)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3815"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3817"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.5190201,0.3974749,-7.9868135e-2,0.3431828,441.33894,238.06666)" />
+      <path
+         transform="matrix(0.6485643,-8.2051964e-2,0.1843918,0.300255,141.86701,474.19645)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3819"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(-0.3974749,0.5190201,-0.3431828,-7.9868135e-2,1056.7662,575.61586)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3821"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3823"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(8.2051964e-2,0.6485643,-0.300255,0.1843918,820.99338,280.78691)" />
+    </g>
+    <g
+       transform="matrix(-0.258819,0.9659258,0.9659258,0.258819,-318.2804,150.10981)"
+       id="g3825"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3827"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.1834964,0.6386789,-0.6386789,0.1834964,1004.0695,285.25622)" />
+      <path
+         transform="matrix(0.5190201,0.3974749,-7.9868135e-2,0.3431828,441.33894,238.06666)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3829"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3831"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(0.6485643,-8.2051964e-2,0.1843918,0.300255,141.86701,474.19645)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3833"
+         sodipodi:cx="443.92856"
+         sodipodi:cy="791.29077"
+         sodipodi:rx="13.214286"
+         sodipodi:ry="13.214286"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         transform="matrix(-0.3974749,0.5190201,-0.3431828,-7.9868135e-2,1056.7662,575.61586)" />
+      <path
+         transform="matrix(8.2051964e-2,0.6485643,-0.300255,0.1843918,820.99338,280.78691)"
+         d="M 457.14284,791.29077 A 13.214286,13.214286 0 1 1 430.71427,791.29077 A 13.214286,13.214286 0 1 1 457.14284,791.29077 z"
+         sodipodi:ry="13.214286"
+         sodipodi:rx="13.214286"
+         sodipodi:cy="791.29077"
+         sodipodi:cx="443.92856"
+         id="path3835"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.88000000000000000"
+       d="M 334.59375,437.75 L 288.125,477.21875 L 205.8125,502.375 L 180.40625,560.25 L 197.40625,555.375 L 213.5625,525.0625 L 297.40625,500.8125 L 343.875,466.46875 L 407.09375,466.46875 L 453.5625,500.8125 L 537.40625,525.0625 L 553.5625,555.375 L 570.5625,560.25 L 545.15625,502.375 L 462.84375,477.21875 L 416.375,437.75 L 334.59375,437.75 z"
+       id="path3969"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <g
+       id="g3981"
+       transform="matrix(-1,0,0,1,753.28571,0)"
+       style="stroke:#4f4f4f;stroke-opacity:1"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 420.35714,616.29075 L 402.85714,618.07647 L 388.92857,655.21932 L 400,672.36218"
+         id="path3983" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 390.71429,659.1479 L 407.5,617.71932"
+         id="path3985" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 412.5,617.00504 L 393.92857,662.00504"
+         id="path3987" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 396.78571,668.07647 L 416.42857,616.29075"
+         id="path3989" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8.69999980999999956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33777776"
+       d="M 186.87822,564.96358 L 225.7691,596.78339 L 306.5813,586.17678 L 342.44171,532.13362 L 409.61686,532.13362 L 445.98235,586.68186 L 526.79455,597.28846 L 559.62451,564.96358"
+       id="path4024"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       d="M 546.9976,736.68951 L 506.5915,874.07026 L 468.71078,892.25301 L 419.2133,874.07026 L 405.57625,845.28091 L 344.9671,845.28091 L 331.83511,871.0398 L 280.82241,890.73778 L 243.44676,874.57533 L 205.06097,737.19459"
+       id="path4036"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <g
+       id="g4106"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         sodipodi:nodetypes="ccsc"
+         id="path4032"
+         d="M 537.40116,693.25296 L 546.9976,707.39509 C 546.9976,707.39509 555.5839,740.22505 555.5839,742.24535 C 555.5839,744.26566 554.06867,755.88241 554.06867,755.88241"
+         style="opacity:1;fill:none;fill-opacity:0.58222218999999997;stroke:#000000;stroke-width:8.69999980999999956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999997999999999" />
+      <path
+         id="path4034"
+         d="M 526.28948,849.8266 L 508.61181,877.10072 L 482.34784,900.8393"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4030"
+         d="M 502.14285,614.1479 L 461.07143,614.1479"
+         style="opacity:1;fill:#000000;fill-opacity:0.58222218999999997;stroke:#000000;stroke-width:8.69999980999999956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999999" />
+      <path
+         id="path4038"
+         d="M 396.98995,683.6565 L 411.63716,691.23265 L 413.15239,707.39509"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         id="path4040"
+         d="M 417.69808,635.16918 L 429.81991,638.19964"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         id="path4042"
+         d="M 422.74884,612.44075 L 436.3859,607.38999"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         id="path4044"
+         d="M 417.193,594.258 L 441.43666,590.21739"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4046"
+         d="M 487.14607,625.57273 L 496.23743,624.43631"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         id="path4048"
+         d="M 416.18285,549.30621 L 406.08132,569.50927"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         id="path4050"
+         d="M 483.35799,376.57013 L 500.02551,417.48131 L 489.41891,424.0473 L 466.1854,473.54477"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+      <path
+         id="path4052"
+         d="M 567.70573,544.76053 L 595.48493,517.99149 L 607.10168,516.98133 L 631.85042,436.67421"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998" />
+    </g>
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+       d="M 466.69048,683.6565 L 458.60926,673.0499 L 436.3859,681.6362 L 408.10163,728.10322 L 343.95694,730.12352 L 317.69298,682.14127 L 291.93409,673.0499 L 283.34779,681.6362"
+       id="path4064"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.58222213;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+       d="M 407.09148,734.66921 L 407.09148,838.71492"
+       id="path4066"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+       d="M 342.44171,734.16413 L 341.93664,836.69461"
+       id="path4068"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <g
+       id="g4078"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4054"
+         d="M 485.88337,679.61589 L 448.00265,665.97883"
+         style="opacity:1;fill:none;fill-opacity:0.58222218999999997;stroke:#ffffff;stroke-width:8.69999980999999956;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444445" />
+      <path
+         id="path4056"
+         d="M 477.80215,662.94837 L 484.36814,669.7669"
+         style="opacity:1;fill:none;fill-opacity:0.58222213;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446" />
+      <path
+         id="path4058"
+         d="M 421.23361,623.80496 L 434.11306,626.83542"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446" />
+      <path
+         id="path4060"
+         d="M 421.48615,601.58161 L 435.37575,599.5613"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446" />
+      <path
+         id="path4062"
+         d="M 404.56609,673.0499 L 421.23361,679.61589 L 442.95189,664.4636"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446" />
+      <path
+         id="path4072"
+         d="M 401.53564,559.40774 L 405.07117,551.8316"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446" />
+      <path
+         id="path4074"
+         d="M 435.37575,449.80619 L 450.02296,446.77573 L 476.792,415.461"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446" />
+      <path
+         id="path4076"
+         d="M 556.59405,514.96103 L 598.51538,495.76813 L 619.22351,435.15898"
+         style="opacity:1;fill:none;fill-opacity:0.58222219;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446" />
+    </g>
+    <g
+       id="g4088"
+       transform="matrix(-1,0,0,1,752.05862,0)"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773">
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222207;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 485.88337,679.61589 L 448.00265,665.97883"
+         id="path4090"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222201;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 477.80215,662.94837 L 484.36814,669.7669"
+         id="path4092" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222207;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 421.23361,623.80496 L 434.11306,626.83542"
+         id="path4094" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222207;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 421.48615,601.58161 L 435.37575,599.5613"
+         id="path4096" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222207;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 404.56609,673.0499 L 421.23361,679.61589 L 442.95189,664.4636"
+         id="path4098" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222207;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 401.53564,559.40774 L 405.07117,551.8316"
+         id="path4100" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222207;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 435.37575,449.80619 L 450.02296,446.77573 L 476.792,415.461"
+         id="path4102" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.58222207;stroke:#ffffff;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72444446"
+         d="M 556.59405,514.96103 L 598.51538,495.76813 L 619.22351,435.15898"
+         id="path4104" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4125"
+       d="M 248.9056,614.1479 L 289.97702,614.1479"
+       style="fill:#000000;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4127"
+       d="M 354.0585,683.6565 L 339.41129,691.23265 L 337.89606,707.39509"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4129"
+       d="M 333.35037,635.16918 L 321.22854,638.19964"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4131"
+       d="M 328.29961,612.44075 L 314.66255,607.38999"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4133"
+       d="M 333.85545,594.258 L 309.61179,590.21739"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4135"
+       d="M 263.90238,625.57273 L 254.81102,624.43631"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4137"
+       d="M 334.8656,549.30621 L 344.96713,569.50927"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4139"
+       d="M 267.69046,376.57013 L 251.02294,417.48131 L 261.62954,424.0473 L 284.86305,473.54477"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+    <path
+       id="path4141"
+       d="M 183.34272,544.76053 L 155.56352,517.99149 L 143.94677,516.98133 L 119.19803,436.67421"
+       style="fill:none;fill-opacity:0.58222201;stroke:#000000;stroke-width:8.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47999998"
+       inkscape:export-filename="/home/curved/Projects/MirthKit/Finity Flight/data/source/Hoplite.png"
+       inkscape:export-xdpi="19.274773"
+       inkscape:export-ydpi="19.274773" />
+  </g>
+</svg>

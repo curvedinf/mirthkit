@@ -1,0 +1,276 @@
+
+
+local num = 0;
+local total = 125;
+
+//Version
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Version.nut");
+
+// Fonts
+progress(num,total); num++;
+font(getArcadePrefix("FinityFlight")+"data/DejaVuSerif-BoldOblique.ttf",12);
+progress(num,total); num++;
+font(getArcadePrefix("FinityFlight")+"data/f500.ttf",12);
+progress(num,total); num++;
+font(getArcadePrefix("FinityFlight")+"data/venusris",12);
+
+// Images	
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/BlasterShot.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/BlasterShot2bottom.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/BlasterShot2top.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Cloud1.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/clouds.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/debris.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/flare.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Gnat.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/ground.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/GunDrone.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Help.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Hoplite.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Janus.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/JanusLeft.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/JanusRight.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/JanusTurret.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Laser.png",1,1); // 20
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/LaserCannon.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/loadybar.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/loadybarBase.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/loadybarCap.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Mercury.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/NaiadBase.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/NaiadProp.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/NaiadTurret.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/overclouds.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Raptor.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Regulus.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/reticle.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Rocket.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Rockets.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/shield.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/shockwave.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Sky.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/smoke.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/sparkle.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/track.png",1,1); // 40
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/Vulcan.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/VulcanFlash1.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/VulcanFlash2.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/VulcanFlash3.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/VulcanShot1.png",1,1);
+progress(num,total); num++;
+image(getArcadePrefix("FinityFlight")+"data/VulcanShot2.png",1,1);
+
+soundVolume(0);
+musicVolume(0);
+
+// Sounds
+progress(num,total); num++;
+sound(getArcadePrefix("FinityFlight")+"data/blaster.wav",0,0);
+progress(num,total); num++;
+sound(getArcadePrefix("FinityFlight")+"data/blaster2.wav",0,0);
+progress(num,total); num++;
+sound(getArcadePrefix("FinityFlight")+"data/boost.wav",0,0);
+progress(num,total); num++;
+sound(getArcadePrefix("FinityFlight")+"data/explosion.wav",0,0);
+progress(num,total); num++;
+sound(getArcadePrefix("FinityFlight")+"data/laser.wav",0,0);
+progress(num,total); num++;
+sound(getArcadePrefix("FinityFlight")+"data/Rocket.wav",0,0);
+progress(num,total); num++;
+sound(getArcadePrefix("FinityFlight")+"data/vulcan.wav",0,0);
+
+// Music
+progress(num,total); num++;
+//music(getArcadePrefix("FinityFlight")+"data/one.ogg");
+progress(num,total); num++;
+//music(getArcadePrefix("FinityFlight")+"data/two.ogg");
+
+music("");
+
+soundVolume(1);
+musicVolume(1);
+
+// Script
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/OptionHandler.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/HighScoreBook.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/CollisionNode.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/ControlHandler.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Blaster.nut"); // 60
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Dyne.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/DyneLayer.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Funspace.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/HumanPilot.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Level.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Machinegun.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/math.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Particle.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Rocket.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Missile.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/RocketLauncher.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/EnemyGun.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/NaiadGun.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Ship.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Shot.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/ShotPlasma.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Streamer.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/StreamerDrawer.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Thruster.nut"); // 80
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Vulcan.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/LaserCannon.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/GiantLaser.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Shield.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/ShieldSpark.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/Camera.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AIBase.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AIGnat.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AIRegulus.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AINaiad.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AIJanus.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AIJanusBaby.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AIHoplite.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/AIMercury.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/VulcanDrone.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/LaserBeacon.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/ScoreKeeper.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/MenuBackground.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/MainMenu.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/PauseMenu.nut"); // 100
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/DeathMenu.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/BetweenLevelMenu.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/HeadUpDisplay.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/EnemySpawner.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/GnatSwarm.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/ShipNaiad.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/ShipJanus.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/ShipJanusBaby.nut");
+
+//Levels
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level1.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level2.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level3.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level4.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level5.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level6.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level7.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level8.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level9.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level10.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level11.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level12.nut"); // 120
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level13.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level14.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level15.nut");
+progress(num,total); num++;
+doNut(getArcadePrefix("FinityFlight")+"script/levels/level16.nut");
+
+progress(-1,-1);
