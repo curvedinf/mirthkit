@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Encoding=UTF-8
+Name=MirthKit
+Comment=Its the online arcade where everyone's creativity comes together.
+Exec=/usr/bin/mirthkit
+Icon=/usr/share/pixmaps/mirthkit.png
+Terminal=false
+Type=Application
+Categories=Application;Game;ArcadeGame;

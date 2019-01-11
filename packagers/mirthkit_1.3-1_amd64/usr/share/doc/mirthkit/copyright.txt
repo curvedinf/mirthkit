@@ -1,0 +1,21 @@
+Copyright (c) 2008 Curved Infinity Games
+
+Terms of use:
+
+1.) MirthKit is provided 'as-is', without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement of third party rights. In no event will the authors be held liable for any damages arising from the use of this software.
+
+2.) MirthKit may only be redistributed in its original packaged format.
+
+3.) MirthKit requires libraries licensed under various open source licenses. In some distributions of MirthKit, these libraries are included in the installer. Copies of their licenses are included where required.
+
+4.) MirthKit automatically connects to the Internet and downloads content without warning. All downloaded content is provided 'as-is', without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement of third party rights. In no event will the authors be held liable for any damages arising from this content.
+
+5.) Some Internet content is available at a cost. This content is copyrighted by its creator and may be freely altered, but may only be redistributed by Curved Infinity Games.
+
+6.) Excluding replacements to parts of MirthKit already covered under other licenses or terms, all other downloaded content created by Curved Infinity Games is copyrighted by Curved Infinity Games and released under the terms of the X11 License. A copy of this license is provided.
+
+7.) All downloaded content not created by Curved Infinity Games which has no other license specified is copyrighted by its creator and released under the terms of the X11 License. A copy of this license is provided.
+
+8.) Terms are subject to change
+
+MirthKit and MirthKit Arcade are trademarks of Curved Infinity Games

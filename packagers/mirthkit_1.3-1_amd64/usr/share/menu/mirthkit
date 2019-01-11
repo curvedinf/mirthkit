@@ -1,0 +1,3 @@
+?package(mirthkit):needs="X11" section="Games/Arcade"\
+  icon="/usr/share/pixmaps/mirthkit.png" \
+  title="MirthKit" command="/usr/bin/mirthkit"
