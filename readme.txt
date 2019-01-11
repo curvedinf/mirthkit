@@ -1,8 +1,10 @@
-MirthKit:
+MirthKit version 1.3
 Authored by Chase Adams, Trent McCay, Matt Collins, and Andrew Peterson
 
-Dependencies:
+Changes:
+Updated Squirrel to 3.0. Cleaned up project. Fixed dependencies for Ubuntu 18.04.
 
+Dependencies:
 g++
 SDL
 SDL_mixer
