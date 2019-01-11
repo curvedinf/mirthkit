@@ -1,7 +1,5 @@
 MirthKit:
 Authored by Chase Adams, Trent McCay, Matt Collins, and Andrew Peterson
-http://www.mirthkit.com
-https://launchpad.net/mirthkit
 
 Dependencies:
 
