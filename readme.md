@@ -1,6 +1,10 @@
 MirthKit version 1.3
 Authored by Chase Adams, Trent McCay, Matt Collins, and Andrew Peterson
 
+How to run:
+MirthKit is a game platform and requires a main.nut squirrel script to run. A sample game is
+available at https://github.com/djangochase/finityflight
+
 Changes:
 Updated Squirrel to 3.0. Cleaned up project. Fixed dependencies for Ubuntu 18.04.
 
