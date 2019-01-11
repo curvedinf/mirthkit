@@ -1,6 +1,9 @@
 # MirthKit
 Authored by Chase Adams, Trent McCay, Matt Collins, and Andrew Peterson
 
+# About
+2D game development kit. OpenGL accelerated. Games written in Squirrel Language. Assets can be referenced using HTTP URLs.
+
 ## How to run
 MirthKit is a game platform and requires a main.nut squirrel script to run. A sample game is
 available at https://github.com/djangochase/finityflight
