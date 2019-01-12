@@ -11,7 +11,11 @@ g++ -Iciga -c ciga/MemoryBlock.cpp -o objects/MemoryBlock.o
 g++ -Iciga -c main.cpp -o objects/main.o
 windres icon.rc objects/icon.o
 echo "Linking executable"
-g++ -o MirthKit objects/acorn.o objects/albillo.o objects/amaryllis.o objects/amaryllis-gui.o \
+g++ -g -o MirthKit objects/acorn.o objects/albillo.o objects/amaryllis.o objects/amaryllis-gui.o \
 objects/argillite.o objects/abyss.o objects/CIGData.o objects/MemoryBlock.o objects/main.o objects/icon.o \
--mwindows  -lmingw32 -lSDLmain -lSDL -lSDL_ttf -lSDL_image -lSDL_mixer -lcurl -lopengl32 \
--lsquirrel -lsqstdlib -lws2_32  -lsqlite3 -lz -lcrypto
+-L/msys64/mingw64/lib/ -L/mingw64/lib/ -L/mingw64/x86_64-w64-mingw32/lib/ \
+/mingw64/x86_64-w64-mingw32/lib/libmingw32.a \
+/mingw64/lib/libcrypto.a \
+-lSDLmain -lSDL -lSDL_ttf -lSDL_image -lSDL_mixer -lcurl -lopengl32 \
+-lsquirrel -lsqstdlib -lws2_32 -lsqlite3 -lz
+# -mwindows
