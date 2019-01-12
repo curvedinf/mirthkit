@@ -42,14 +42,15 @@ namespace ciga {
 			#endif
 			
 			#ifdef WIN32
-			char* homestr = getenv("HOMEPATH");
-			sprintf(pathName,"%s/MirthKit/%s%s",homestr,vaultName,VAULT_EXT);
+			sprintf(pathName,"%s%s",vaultName,VAULT_EXT);
 			#endif
 			
 			#ifdef MAC_OSX
 			char* homestr = getenv("HOME");
 			sprintf(pathName,"%s/.mirthkit/%s%s",homestr,vaultName,VAULT_EXT);
 			#endif
+			
+			printf(pathName);
 			
 			sqlite3_open(pathName,vault);
 			sqlite3_exec(*vault,TABLE_CREATE,0,0,0);
@@ -80,8 +81,7 @@ namespace ciga {
 			#endif
 			
 			#ifdef WIN32
-			char* homestr = getenv("HOMEPATH");
-			sprintf(pathName,"%s/MirthKit/%s%s",homestr,vaultName,VAULT_EXT);
+			sprintf(pathName,"%s%s",vaultName,VAULT_EXT);
 			#endif
 			
 			#ifdef MAC_OSX
